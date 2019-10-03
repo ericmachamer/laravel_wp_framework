@@ -1,0 +1,29 @@
+{
+	"name"        : "theedigital/TheeTheme",
+	"type"        : "wordpress-theme",
+	"description" : "TheeTheme",
+	"keywords"    : ["wordpress"],
+	"homepage"    : "https://theedigital.com",
+	"license"     : "GPL-2.0-or-later",
+	"authors"     : [
+		{
+			"name"    : "TheeDigital",
+			"email"   : "admin@theedigital.com",
+			"homepage": "https://theedigital.com"
+		}
+	],
+	"autoload"    : {
+		"psr-4" : {
+			"TheeTheme\\" : "app/"
+		}
+	},
+	"require": {
+		"php" : ">=5.6",
+		"composer/installers" : "~1.0",
+		"justintadlock/hybrid-core" : "^5.0.0"
+	},
+	"require-dev": {
+		"wptrt/wpthemereview": "*",
+		"dealerdirect/phpcodesniffer-composer-installer": "0.4.4"
+	}
+}

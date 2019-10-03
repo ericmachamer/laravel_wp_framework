@@ -1,0 +1,17 @@
+////
+/// Pullquote block.
+///
+/// @group  Blocks
+/// @author TheeDigital <admin@theedigital.com>
+/// @link   https://theedigital.com
+////
+
+.wp-block-pullquote {
+	padding:    3em 0;
+	text-align: center;
+
+	cite,
+	footer {
+		position: relative;
+	}
+}

@@ -1,0 +1,18 @@
+{
+  "from": {
+    "Name": "TheeTheme",
+    "Description": "TheeTheme is a next-generation starter theme designed to help theme authors write elegant, intelligent, and modern code.",
+    "Uri": "https://themehybrid.com/themes/TheeTheme",
+    "Author": "Justin Tadlock",
+    "AuthorEmail": "justintadlock@gmail.com",
+    "AuthorUri": "https://themehybrid.com"
+  },
+  "to": {
+    "Name": "TheeTheme",
+    "Description": "TheeTheme is a next-generation starter theme designed to help theme authors write elegant, intelligent, and modern code.",
+    "Uri": "https://themehybrid.com/themes/TheeTheme",
+    "Author": "TheeDigital",
+    "AuthorEmail": "justintadlock@gmail.com",
+    "AuthorUri": "https://themehybrid.com"
+  }
+}

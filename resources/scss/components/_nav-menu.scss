@@ -1,0 +1,33 @@
+////
+/// Nav menu component.
+///
+/// @group  Components
+/// @author TheeDigital <admin@theedigital.com>
+/// @link   https://theedigital.com
+////
+
+.menu {
+
+	// Specific nav menus.
+	&--primary {}
+
+	// Menu title.
+	&__title {}
+
+	// Menu items list.
+	&__items {
+		overflow: auto;
+		list-style: none;
+		padding: 0;
+		text-align: right;
+	}
+
+	// Individual items.
+	&__item {
+		display: inline-block;
+		margin: 0;
+	}
+
+	// Item link.
+	&__link {}
+}

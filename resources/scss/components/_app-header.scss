@@ -1,0 +1,29 @@
+////
+/// App header component.
+///
+/// @group  Components
+/// @author TheeDigital <admin@theedigital.com>
+/// @link   https://theedigital.com
+////
+
+.app-header {
+	padding: 25px 0;
+	background: color(white);
+	// Wrapper around the title and description.
+	&__branding {}
+
+	// Output from the `custom-logo` feature.
+	&__logo {}
+
+	// Logo link.
+	&__logo-link {}
+
+	// The site title.
+	&__title {}
+
+	// Site title link.
+	&__title-link {}
+
+	// The site description.
+	&__description {}
+}
